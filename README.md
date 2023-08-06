@@ -1,9 +1,20 @@
 # Dalle & MidJourney Clone app
 
-## App is use to generate AI base images text to image
+*App is use to generate AI base images text to image
 
-### Make this app using javascript,reactjs,viteFramework,html,css etc.
+* Make this app using javascript,reactjs,viteFramework,html,css etc.
+
+## Demo 
 
 
-https://github.com/patilchetan25/dall-eclone/assets/88223249/f775ecc6-7220-49e6-a48e-8a77127c4b7f
+![ezgif com-video-to-gif](https://github.com/patilchetan25/dall-eclone/assets/88223249/e84e3269-429a-4a4c-8d70-d9e9039c6727)
+
+
+## Link :point_down:
+[DALLE-CLONE App](https://patilchetan25.github.io/dall-eclone/)
+
+
+
+
+
 
